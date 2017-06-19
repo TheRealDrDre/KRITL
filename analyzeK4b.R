@@ -11,7 +11,7 @@ library(retimes)
 data <- NA  # Empty holder for data
 
 # Loads the individual data files
-for (filename in dir()[grep("*.csv", dir())]) {
+for (filename in dir()[grep("raw/*.csv", dir())]) {
 	subject <- read.table(filename, header=T, sep=",")
 	if ( length(dim(data)) == 0) {
 		data <- subject

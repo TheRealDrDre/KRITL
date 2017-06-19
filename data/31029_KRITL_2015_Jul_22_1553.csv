@@ -1,0 +1,5 @@
+operationc,operationb,operationa,correctresponse,valuey,operationd,condition,valuex,practice_trials.thisRepN,practice_trials.thisTrialN,practice_trials.thisN,practice_trials.thisIndex,practice_encoding.keys,practice_encoding.rt,practice_execution.keys,practice_execution.corr,practice_execution.rt,date,frameRate,expName,session,participant,
+0,decrease,TIMES,8,3,0,2,3,0,0,0,1,['space'],[4.248055515403394],9,0,15.4407335095,2015_Jul_22_1553,None,KRITL,001,31029,
+increase,DIVIDE,triple,3,3,0,3,2,0,1,1,4,['space'],[11.660412585944869],None,0,,2015_Jul_22_1553,None,KRITL,001,31029,
+ADD,triple ,half,8,2,0,3,4,0,2,2,3,None,,8,1,6.86032257535,2015_Jul_22_1553,None,KRITL,001,31029,
+0,ADD,half,7,5,0,2,4,0,3,3,2,['space'],[14.895865566417342],7,1,18.0254846907,2015_Jul_22_1553,None,KRITL,001,31029,

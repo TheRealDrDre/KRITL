@@ -1,0 +1,8 @@
+operationc,operationb,operationa,correctresponse,valuey,operationd,condition,valuex,Rule,Operatora,Length,Intermediate,CorrectResponse,Result,Y,X,Operatorc,Operatorb,Operatord,Structure,practice_trials.thisRepN,practice_trials.thisTrialN,practice_trials.thisN,practice_trials.thisIndex,block.thisRepN,block.thisTrialN,block.thisN,block.thisIndex,practice_encoding.keys,practice_encoding.rt,practice_execution.keys,practice_execution.corr,practice_execution.rt,encoding.keys,execution.keys,execution.corr,date,frameRate,expName,session,participant,
+ADD,triple ,half,8,2,0,3,4,,,,,,,,,,,,,0,0,0,3,,,,,['space'],[1.2389783918624744],3,0,0.229588762275,,,,2017_Apr_14_0939,357.485565263,KRITL,001,12345,
+0,ADD,half,7,5,0,2,4,,,,,,,,,,,,,0,1,1,2,,,,,['space'],[0.317793792928569],3,0,0.327659747738,,,,2017_Apr_14_0939,357.485565263,KRITL,001,12345,
+increase,DIVIDE,triple,3,3,0,3,2,,,,,,,,,,,,,0,2,2,4,,,,,['space'],[0.3151692135143094],3,1,0.279378094448,,,,2017_Apr_14_0939,357.485565263,KRITL,001,12345,
+0,decrease,TIMES,8,3,0,2,3,,,,,,,,,,,,,0,3,3,1,,,,,['space'],[0.2897125041927211],3,0,0.261400580988,,,,2017_Apr_14_0939,357.485565263,KRITL,001,12345,
+increase,DIVIDE,double,9,8,triple,4,8,,,,,,,,,,,,,0,4,4,5,,,,,['space'],[0.1742672820982989],3,0,0.213150408934,,,,2017_Apr_14_0939,357.485565263,KRITL,001,12345,
+0,ADD,decrease,7,5,0,2,3,,,,,,,,,,,,,0,5,5,0,,,,,['space'],[0.26873024078668095],3,0,0.230444573623,,,,2017_Apr_14_0939,357.485565263,KRITL,001,12345,
+,,,,,,,,"('SUBTRACT', 'THIRD', 'x', 'y')",third,2,"(3, 1)",1,1,2,9,0,SUBTRACT,0,BUxy,,,,,0,0,0,0,,,,,,None,None,0,2017_Apr_14_0939,357.485565263,KRITL,001,12345,
